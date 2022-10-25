@@ -4,6 +4,7 @@
 		<title>Homepagina</title>
 		<meta charset="utf-8">
 		<link rel="stylesheet" href="css/opmaak.css">
+		<link rel="stylesheet" href="css/menu.css">
     </head>
     <body>
 		<header>
@@ -20,6 +21,9 @@
 				</ul>
 			</nav>
 		</header>
-		<h1>Hallo Umut.</h1>
+		<h1>Hallo Umut</h1>
+		<p>
+		Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque eros justo, porta a lobortis non, efficitur non dolor. Nullam tristique ornare est quis finibus. Duis consequat lacus aliquet dictum facilisis. Fusce mauris urna, lacinia nec congue ut, molestie at lorem. Vestibulum ac hendrerit odio. Phasellus neque nisl, lobortis sit amet lacinia id, luctus vel lacus. Nunc vitae gravida nisl. In at elit tincidunt, aliquam leo vitae, aliquam libero. In eu dictum massa, a bibendum justo. Vivamus sit amet orci condimentum, pulvinar ligula molestie, pulvinar sem. Pellentesque bibendum arcu quis nulla viverra vehicula. Curabitur convallis, ipsum hendrerit fringilla feugiat, nunc magna molestie eros, non pretium arcu dolor ac massa. Suspendisse gravida commodo porta. Sed aliquam ultrices enim, vel viverra purus viverra vel. Fusce sagittis molestie faucibus. Duis justo dui, feugiat quis laoreet et, congue nec neque.
+		</p>
     </body>
 </html>
