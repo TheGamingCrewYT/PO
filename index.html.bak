@@ -9,21 +9,13 @@
     <body>
 		<header class=menu>
 			<nav>
-				<ul>
-					<li><a href="index.html">Home</a></li>
-					<li><a href="#">Over ons</a>
-						<ul>
-							<li><a href="#">Umut Uçar</a></li>
-							<li><a href="#">Ilya Beliën</a></li>
-						</ul>
-					</li>
-					<li><a href="#">Styles</a>
-					<ul>
-						<li><a href="#">Modern uiterlijk</a></li>
-						<li><a href="#">Oud uiterlijk</a></li>
-					</ul>
-					</li>
-				</ul>
+				<a href="#home">Home</a>
+				<a href="#overons">Over ons</a>
+				<a href="#uiterlijk1">Uiterlijk 1</a>
+				<a href="#uiterlijk2">Uiterlijk 2</a>
+				<a href="#uiterlijk2">Uiterlijk 2</a>
+				<a href="#uiterlijk2">Uiterlijk 2</a>
+				<a href="#uiterlijk2">Uiterlijk 2</a>
 			</nav>
 		</header>
 		<h1>Hallo Umut</h1>
