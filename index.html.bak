@@ -6,6 +6,9 @@
 		<link rel="stylesheet" href="css/opmaak.css">
     </head>
     <body>
+		<header>
+		
+		</header>
 		<h1>Hallo Umut.</h1>
     </body>
 </html>
