@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html lang="nl">
-     <head>
-           <title>Homepagina</title>
-           <meta charset="utf-8">
-           <link rel="stylesheet" href="css/opmaak.css">
-     </head>
-     <body>
-            <h1>Hallo Ilya.</h1>
-     </body>
+    <head>
+		<title>Homepagina</title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="css/opmaak.css">
+    </head>
+    <body>
+		<h1>Hallo Umut.</h1>
+    </body>
 </html>
