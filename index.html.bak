@@ -7,7 +7,7 @@
 		<link rel="stylesheet" href="css/menu.css">
     </head>
     <body>
-		<header>
+		<header class=menu>
 			<nav>
 				<ul>
 					<li><a href="index.html">Home</a></li>
