@@ -1,0 +1,46 @@
+nav{
+    margin: 0;
+    padding: 0;
+	
+}
+
+nav a{
+    color: #FFFFFF;
+    text-decoration: none;
+    background-color: #003366;
+    font-family: Arial, sans-serif;
+    width: 100px;
+    padding: 2px 4px;
+    margin-bottom: 1px;
+    display: block;
+    list-style-type: none;
+}
+
+nav a:hover{
+    background-color: #336699;
+    color:#FFFFFF;
+}
+
+nav ul{
+	list-style-type: none;
+    margin: 1;
+    padding: 1;
+}
+
+nav li{
+    float: left;
+    background-color:#003366;
+    min-width:100px;
+}
+
+nav ul li ul{
+    display: none;
+}
+
+nav ul li ul li{
+    float: none;
+}
+
+nav ul li:hover ul{
+    display: block;
+}
