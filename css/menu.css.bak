@@ -1,5 +1,8 @@
+header{
+	overflow: hidden;
+}
 nav{
-    position: absolute;
+    position: static;
 	top: 0px;
 	left; 0px;
 }
@@ -30,7 +33,7 @@ nav ul{
 nav li{
     float: left;
     background-color: #003366;
-    min-width: 1000px;
+    min-width: 100px;
 }
 
 nav ul li ul{
