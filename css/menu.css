@@ -1,8 +1,10 @@
 header{
-	overflow: hidden;
+	position: sticky;
+    top: 0px;
+    margin-bottom: 0;
 }
 nav{
-    position: fixed;
+    position: relative;
 	top: 0px;
 	left; 0px;
 }
