@@ -1,7 +1,7 @@
 .menu {
 	font-family: Arial, calibri;
 	overflow: hidden;
-	background-color: #333;
+	background-color:#0b3954ff;
 	position: fixed;
 	top: 0;
 	left: 0;
@@ -11,14 +11,14 @@
 .menu a {
 	float: left;
 	display: block;
-	color: #f2f2f2;
+	color: #EE7B30;
 	text-align: center;
 	padding: 20px 20px;
 	text-decoration: none;
 }
 
 .menu a:hover {
-	background: #ddd;
+	background: #99A1A6;
 	color: black;
 }
 
