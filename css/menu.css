@@ -1,7 +1,7 @@
 .menu {
 	font-family: Arial, calibri;
 	overflow: hidden;
-	background-color:#0b3954ff;
+	background-color:#1181b2;
 	position: fixed;
 	top: 0;
 	left: 0;
@@ -12,7 +12,7 @@
 .menu a {
 	float: left;
 	display: block;
-	color: black;
+	color: #26ace2;
 	text-align: center;
 	padding: 20px 20px;
 	text-decoration: none;
