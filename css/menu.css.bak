@@ -1,26 +1,27 @@
 .menu {
-  overflow: hidden;
-  background-color: #333;
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
+	font-family: calibri, Arial;
+	overflow: hidden;
+	background-color: #333;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
 }
 
 .menu a {
-  float: left;
-  display: block;
-  color: #f2f2f2;
-  text-align: center;
-  padding: 20px 20px;
-  text-decoration: none;
+	float: left;
+	display: block;
+	color: #f2f2f2;
+	text-align: center;
+	padding: 20px 20px;
+	text-decoration: none;
 }
 
 .menu a:hover {
-  background: #ddd;
-  color: black;
+	background: #ddd;
+	color: black;
 }
 
 .main {
-  margin-top: 30px;
+	margin-top: 30px;
 }
