@@ -1,3 +1,15 @@
+/*
+kleurpalet:
+--prussian-blue: #0b3954ff;
+--cadet-grey: #99a1a6ff;
+--princeton-orange: #ee7b30ff;
+--green-yellow-crayola: #f5ee9eff;
+--blond: #fcf6b1ff;
+*/
+
+body{
+    background-color: #99a1a6ff;
+}
 h1 {
     color:blue;
 }
