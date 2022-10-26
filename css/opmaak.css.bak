@@ -1,4 +1,13 @@
+/*
+kleurpalet:
+https://www.awink.nl/
+*/
+
 h1 {
+	margin-top: 60px;
     color:blue;
-	display: inline;
+}
+
+footer {
+    bottom: 0px;
 }
