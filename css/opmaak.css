@@ -29,7 +29,22 @@ section {
     margin: 0 25% 0% 25%;
 }
 
+.overons {
+    font-size: 3em;
+    text-align: center;
+    color:#1181b2;
+}
+
 img {
+    float: right;
+    padding: 5px;
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
     height: 320px;
     width: 320px;
+}
+
+.wij {
+    font-size: 3em;
 }
