@@ -15,6 +15,13 @@ footer {
     bottom: 0px;
 }
 
+.welkom{
+    font-size: 3em;
+    text-align: center;
+    margin: auto;
+    color:#1181b2;
+}
+
 section{
-    margin: 80px 25% 0% 25%;
+    margin: 0 25% 0% 25%;
 }
