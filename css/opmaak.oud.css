@@ -1,0 +1,23 @@
+header{
+    background-color: #bebebe;
+    padding: 5px;
+}
+
+body{
+    background-color: #008689;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color:#4afa56;
+}
+
+section{
+    margin: 80px 25% 0% 25%;
+}
+
+img{
+    float: left;
+    height: 18px;
+    margin-right: 5px;
+    width: auto;
+}
