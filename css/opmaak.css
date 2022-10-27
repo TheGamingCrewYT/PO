@@ -2,13 +2,19 @@
 kleurpalet:
 https://www.awink.nl/
 */
+body{
+    font-family: Verdana, sans-serif, Arial;
+}
 
-h1 {
-	margin-top: 80px;
-    color:blue;
+h1, h2, h3, h4, h5, h6 {
+    color:#1181b2;
 }
 
 footer {
     position: relative;
     bottom: 0px;
+}
+
+section{
+    margin: 80px 25% 0% 25%;
 }
