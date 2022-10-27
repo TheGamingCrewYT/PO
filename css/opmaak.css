@@ -2,7 +2,7 @@
 kleurpalet:
 https://www.awink.nl/
 */
-body{
+body {
     font-family: Verdana, sans-serif, Arial;
 }
 
@@ -18,13 +18,13 @@ footer {
     text-align: center;
 }
 
-.welkom{
+.welkom {
     font-size: 3em;
     text-align: center;
     margin: auto;
     color:#1181b2;
 }
 
-section{
+section {
     margin: 0 25% 0% 25%;
 }
