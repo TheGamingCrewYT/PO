@@ -39,11 +39,8 @@ section {
 img {
     float: right;
     padding: 5px;
-    display: flex;
-    margin-right: auto;
-    margin-left: auto;
-    height: 320px;
-    width: 320px;
+    height: 200px;
+    width: 200px;
 }
 
 .wij {
