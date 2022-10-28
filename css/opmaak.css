@@ -18,18 +18,12 @@ footer {
     text-align: center;
 }
 
-.welkom {
-    font-size: 3em;
-    text-align: center;
-    margin: auto;
-    color:#1181b2;
-}
-
 section {
     margin: 0 25% 0% 25%;
 }
 
-.overons {
+.titel {
+    margin-top: 10%;
     font-size: 3em;
     text-align: center;
     margin: auto;
@@ -45,4 +39,9 @@ img {
 
 .wij {
     font-size: 3em;
+}
+
+#cpu{
+    height: 40%;
+    width: 40%;
 }
