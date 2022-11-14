@@ -46,6 +46,6 @@ img {
     width: 40%;
 }
 
-a.hover {
+a:hover {
     color: orange;
 }
