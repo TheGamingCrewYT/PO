@@ -21,8 +21,8 @@ Bij oud uiterlijk beweegt de navigatiebalk niet mee.
 
 Overige technieken die wij hebben gebruikt + wat wij hebben geleerd:
 
-Een prachtig menu gemaakt.
-Een menu shadow toegevoegd voor modern uiterlijk.
+Een prachtig maken was moeilijk, maar het is ons gelukt. Dit is dus iets dat we hebben geleerd.
+Een menu shadow toegevoegd voor modern uiterlijk. Dit was een extraatje wat we hebben geleerd.
 
 
 Document dat moet worden bekeken:
