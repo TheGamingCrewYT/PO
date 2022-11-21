@@ -11,9 +11,11 @@ Ilya:
 
 Waar moet de docent niet overheen kijken:
 Het plaatje in index.html is klikbaar.
+Alle gebruikte bronnen staan vermeld in de footer.
 
 Overige technieken die wij hebben gebruikt + wat wij hebben geleerd:
 Een menu shadow toegevoegd.
+
 
 Document dat moet worden bekeken:
 index.html
