@@ -1,5 +1,6 @@
 Praktische Opdracht HTML & CSS --- Umut Uçar en Ilya Beliën
 
+
 Hoe is het gegaan?
 
 Umut:
@@ -9,12 +10,19 @@ Het samenwerken ging ook prima. Het is uiteindelijk een mooi eindproduct geworde
 Ilya:
 
 
+
 Waar moet de docent niet overheen kijken:
+
 Het plaatje in index.html is klikbaar.
 Alle gebruikte bronnen staan vermeld in de footer.
+Bij modern uiterlijk beweegt de navigatiebalk mee.
+Bij oud uiterlijk beweegt de navigatiebalk niet mee.
+
 
 Overige technieken die wij hebben gebruikt + wat wij hebben geleerd:
-Een menu shadow toegevoegd.
+
+Een prachtig menu gemaakt.
+Een menu shadow toegevoegd voor modern uiterlijk.
 
 
 Document dat moet worden bekeken:
