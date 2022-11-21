@@ -13,6 +13,10 @@ h1, h2, h3, h4, h5, h6 {
     text-align: center;
 }
 
+.overons-article {
+    padding-bottom: 1em;
+}
+
 footer {
     border-top: 1px solid #808080;
     position: relative;
@@ -65,8 +69,4 @@ td {
 
 th {
     border: 1px solid;
-}
-
-.overons-article {
-    padding-bottom: 1em;
 }
