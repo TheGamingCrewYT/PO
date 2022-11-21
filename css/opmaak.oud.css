@@ -1,4 +1,4 @@
-header {
+nav {
     background-color: #bebebe;
     padding: 5px;
 }
@@ -20,9 +20,16 @@ footer {
     text-align: center;
 }
 
-img {
+.logo {
     float: left;
     height: 18px;
+    margin-right: 5px;
+    width: auto;
+}
+
+img {
+    float: right;
+    height: 150px;
     margin-right: 5px;
     width: auto;
 }
