@@ -34,3 +34,39 @@ img {
     margin-right: 5px;
     width: auto;
 }
+
+a:link {
+    color: green;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    color: yellow;
+}
+
+.madeby {
+    text-align: right;
+    font-size: 10px;
+}
+
+table {
+    border: 1px solid;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+td {
+    border: 1px solid;
+}
+
+th {
+    border: 1px solid;
+}
+
+.overons-article {
+    padding-bottom: 1em;
+}
