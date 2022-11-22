@@ -8,14 +8,14 @@ Ik vond het een zeer leuke uitdaging. Het duurde best lang om te maken, maar het
 Het samenwerken ging ook prima. Het is uiteindelijk een mooi eindproduct geworden.
 
 Ilya:
-
+Ik had veel plezier in het maken van de website. Ik heb veel gekeken naar andere websites voor o.a. kleurpalet zodat onze site er mooi uit zou zien. Bovendien was de samenwerking makkelijk door het gebruik van github, en eerlijk verdeeld.
 
 
 Waar moet de docent niet overheen kijken:
 
 Het plaatje in index.html is klikbaar.
 Alle gebruikte bronnen staan vermeld in de footer.
-Bij modern uiterlijk beweegt de navigatiebalk mee.
+Bij modern uiterlijk beweegt de navigatiebalk mee. (is statisch)
 Bij oud uiterlijk beweegt de navigatiebalk niet mee.
 
 
